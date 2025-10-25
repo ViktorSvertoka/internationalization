@@ -1,0 +1,34 @@
+{
+  "Home": {
+    "title": "Welcome to Your App",
+    "subtitle": "Your one-stop solution for all your needs.",
+    "welcomeHeader": "Welcome!",
+    "welcomeText": "Explore our platform and discover all the exciting features we offer to enhance your experience."
+  },
+  "About": {
+    "aboutUs": "About Us",
+    "mission": "Our mission is to empower individuals and businesses with innovative solutions.",
+    "ourStory": "Our Story",
+    "storyDescription": "Founded in 2020, we have been dedicated to making a positive impact in the community through technology.",
+    "values": "Our Values",
+    "valuesDescription": "Integrity, Innovation, and Inclusion guide us in everything we do.",
+    "contact": "Contact Us",
+    "contactInfo": "For inquiries, reach us at contact@example.com."
+  },
+  "Header": {
+    "home": "Home",
+    "about": "About us",
+    "changeLanguage": "Change Language"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "backToTop": "Back to top",
+    "socialMedia": {
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  }
+}
